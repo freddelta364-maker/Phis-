@@ -1,0 +1,6 @@
+{
+  "name": "Phis Guard",
+  "description": "Détecteur de tentatives de phishing et d'URL suspectes avec analyse des signaux d'alerte, score de risque et recommandations de cybersécurité.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
